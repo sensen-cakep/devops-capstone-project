@@ -1,7 +1,7 @@
 ---
-name: Issue template
+name: ISSUE_TEMPLATES
 about: Issue template
-title: Issue template
+title: ISSUE_TEMPLATES
 labels: ''
 assignees: ''
 
